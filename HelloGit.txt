@@ -1,1 +1,2 @@
-Now I am testing how checkout without committing
+Now I am on the master branch
+and the master branch has been changed
