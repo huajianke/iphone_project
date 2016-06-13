@@ -1,1 +1,2 @@
-Now I am testing how checkout without committing
+I am on branch testing
+and my ancestor is "Now I am testing ... "
