@@ -1,15 +1,5 @@
-Now I am on the master branch
-and the master branch has been changed
-I am on branch testing
-and my ancestor is "Now I am testing ... "
-
-
-I am testing merging two branches who has common ancestor
-and I am on testing branch
-
-I am on develop branch , and I have done some change in this file
-so this file may be different from the master branch.
-
-Now I am testing this file on testing branch.....
-what will happen next?
-Hahahaha, I have known how to use git branch
+I have deleted all contents which stored before
+And now I am testing push someting to github.
+Wish everything will be ok
+hahahhahahahahah
+By Brook Zou
